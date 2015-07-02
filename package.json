@@ -1,0 +1,15 @@
+{
+  "name": "generate-internal-npmrc",
+  "version": "1.0.0",
+  "description": "A simple way to generate an npmrc from a username/pass combo",
+  "bin": "./cmd.js",
+  "main": "./cmd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Ramage",
+  "license": "ISC",
+  "dependencies": {
+    "ini": "^1.3.4"
+  }
+}
